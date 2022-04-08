@@ -1,4 +1,4 @@
-# dotnet-tests-report
+# dotnet-tests-report-testingstuff
 
 GitHub Action to run .NET tests and generate reports and badges.
 
